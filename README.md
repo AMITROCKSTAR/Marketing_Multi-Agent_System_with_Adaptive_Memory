@@ -1,9 +1,9 @@
-Scenario: 
+**Scenario: **
 Purple Merit's client requires an autonomous marketing system with multiple specialized agents 
 collaborating to optimize lead management, campaign execution, and customer engagement. The 
 system should be capable of learning and adapting from ongoing interactions to improve future 
 marketing outreach. 
-Task: 
+**Task: **
 Build a 3-agent collaborative marketing system: 
 • Lead Triage Agent - Categorizes incoming marketing leads (e.g., Campaign Qualified, Cold 
 Lead, General Inquiry)
@@ -19,11 +19,13 @@ databases and analytics
  • Create agent handoff protocols preserving conversation and campaign context
  • Include persistent memory for each agent to learn and improve marketing outreach
  Adaptive Learning Agent Memory 
-Scenario: Design a sophisticated memory architecture to allow agents to adapt from customer 
+
+ 
+**Scenario: **Design a sophisticated memory architecture to allow agents to adapt from customer 
 interactions and improve over time.
 
 
-Task: 
+**Task: **
 Develop memory systems including: 
 • Short-term memory for current conversation contexts
  • Long-term memory for customer history and preferences
@@ -48,7 +50,7 @@ and content provided earlier, ensuring the final implementation aligns precisely
 requirements. Describe your approach to managing the deployment lifecycle and how you would 
 validate that the system operates as expected in a production environment. 
 Documentation & Enhancement - Process Documentation 
-Task: 
+**Task: **
 Create comprehensive system documentation and analysis including the following key 
 deliverables: 
 Purple Merit Technologies
